@@ -1,3 +1,6 @@
+#Given n points in d-dimensions, find two whose mutual distance is smallest  using Divide and conquer
+#Solve in nlogn time
+
 import math
 
 
