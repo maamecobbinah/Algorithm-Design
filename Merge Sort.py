@@ -1,3 +1,5 @@
+#Sort an array recursively in nlogn time using Merge sort 
+
 def mergeSort(arr):
     if len(arr) > 1:
          # Finding the mid of the array
